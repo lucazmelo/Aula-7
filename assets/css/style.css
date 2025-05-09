@@ -6,7 +6,7 @@ form fieldset{
     margin: auto;
     padding: 30px;
     gap: 15px;
-   background-color: burlywood;
+   background-color:yellow ;
 }
 form fieldset input[type="submit"]{
     width: 15vw;
@@ -14,19 +14,21 @@ form fieldset input[type="submit"]{
     margin: auto;
 }
 form fieldset input[type="submit"]:hover{
-    background-color: #544845;
-    cursor:pointer
+    background-color: aliceblue;
 }
 h1{
     text-align: center;
     font-size: 60px;
     font-family: cursive;
-    color: #544845;
+    
 }
 h2{
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
 }
 body{
-    background-color: bisque;
+    background-color:darkgray;
+    background-image: url(https://brfffx.oss-us-west-1.aliyuncs.com/imgs/15.png);
+    background-size: cover;
 }
