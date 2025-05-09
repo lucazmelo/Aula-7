@@ -1,0 +1,32 @@
+form fieldset{
+    background-color: lightgray;
+    display: flex;
+    flex-direction: column;
+    width: 50vw;
+    margin: auto;
+    padding: 30px;
+    gap: 15px;
+   background-color: burlywood;
+}
+form fieldset input[type="submit"]{
+    width: 15vw;
+    height: 10vh;
+    margin: auto;
+}
+form fieldset input[type="submit"]:hover{
+    background-color: #544845;
+    cursor:pointer
+}
+h1{
+    text-align: center;
+    font-size: 60px;
+    font-family: cursive;
+    color: #544845;
+}
+h2{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{
+    background-color: bisque;
+}
